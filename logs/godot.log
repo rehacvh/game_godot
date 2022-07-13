@@ -1,0 +1,9 @@
+Godot Engine v3.3.4.stable.mono.official.faf3f883d - https://godotengine.org
+OpenGL ES 3.0 Renderer: AMD Radeon(TM) R4 Graphics
+OpenGL ES Batching: ON
+ 
+Mono: Log file is: 'C:\Users\Rehab\AppData\Roaming/Godot/mono/mono_logs/2022-07-13_18.48.50_11620.log'
+Project is missing: C:/Users/Rehab/Downloads/Final_Map/project.godot
+Project is missing: D:/health task/project.godot
+**ERROR**: Condition "default_certs != __null" is true.
+   At: modules/mbedtls/crypto_mbedtls.cpp:201:load_default_certificates() - Condition "default_certs != __null" is true.
